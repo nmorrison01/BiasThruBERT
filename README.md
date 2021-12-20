@@ -15,3 +15,6 @@ Access to this dataset is restricted, so we included a small sample of the text 
 
 Code: \
 We added the BERT architecture and all the versions of the models we created.
+
+Models: \
+All models not provided in the github are available at https://huggingface.co/Declan
