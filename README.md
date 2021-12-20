@@ -14,3 +14,4 @@ We modified the POLUSA dataset which can be found at https://zenodo.org/record/3
 Access to this dataset is restricted, so we included a small sample of the text files we used to train the models.
 
 Code: \
+We added the BERT architecture and all the versions of the models we created.
