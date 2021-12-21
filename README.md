@@ -18,3 +18,6 @@ We added the BERT architecture and all the versions of the models we created.
 
 Models: \
 All models not provided in the github are available at https://huggingface.co/Declan
+
+Context and Adjective Lists: \
+All adjectives and contexts used to query the model are included in this repository
