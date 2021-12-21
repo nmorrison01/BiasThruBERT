@@ -14,7 +14,7 @@ We modified the POLUSA dataset which can be found at https://zenodo.org/record/3
 Access to this dataset is restricted, so we included a small sample of the text files we used to train the models.
 
 Code: \
-We added the BERT architecture and all the versions of the models we created.
+We added the BERT architecture and all the versions of the models we created. The scripts used to analyze and compute Political Alignment Scores are also included.
 
 Models: \
 All models not provided in the github are available at https://huggingface.co/Declan
